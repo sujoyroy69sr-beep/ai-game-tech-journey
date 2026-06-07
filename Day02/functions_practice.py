@@ -52,6 +52,6 @@ greet("Geralt")
 
 #This will output: 
 # Hello Sujoy
-# Hello Kratos
-# Hello Geralt                as we have passed different arguments to the same function, 
-#                             which allows us to reuse the same code with different inputs.
+# Hello Kratos                     as we have passed different arguments to the same function, 
+# # Hello Geralt                   which allows us to reuse the same code with different inputs.
+               

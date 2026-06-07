@@ -14,21 +14,21 @@ for game in games:
 
 print("Total Games:", len(games))        # Print the total number of games in the list
 
-#Python uses indentation (spaces at the beginning of a line) to decide what belongs to a loop.
-#Anything that is indented under:
+# Python uses indentation (spaces at the beginning of a line) to decide what belongs to a loop.
+# Anything that is indented under:
 
-#for game in games:
+# for game in games:
 
-#belongs to the loop.
+# belongs to the loop.
 
-#Python sees:
+# Python sees:
 
-#for game in games:
+# for game in games:
 #   print(game)
 #   print("Done")
-#as:
-#Repeat these TWO statements
-#for every game:
-#Print the game
-#Print "Done"
-#So both statements run 3 times.
+# as:
+# Repeat these TWO statements
+# for every game:
+# Print the game
+# Print "Done"
+# So both statements run 3 times.
